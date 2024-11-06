@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "60cf8c59980e3443",
+    "type": "split",
+    "children": [
+      {
+        "id": "321c191098f4f877",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3035b617dc7c0baa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Articles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Articles"
+            }
+          },
+          {
+            "id": "63c4dccfe905b811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Vulnerabilities and Risks of Implementing Internet of Things (IoT) in Cyber Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Vulnerabilities and Risks of Implementing Internet of Things (IoT) in Cyber Security"
+            }
+          },
+          {
+            "id": "0552dccf34785d32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HALE-IoT HArdening LEgacy Internet-of-Things devices by retrofitting defensive firmware modifications and.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HALE-IoT HArdening LEgacy Internet-of-Things devices by retrofitting defensive firmware modifications and"
+            }
+          },
+          {
+            "id": "116a72d304b83992",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "baf03bc2656ece60",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aa728718fc8a92b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b1e3f1ffe8110d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f5ffee383a059ed3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7c4b7a512725516a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9d776b3faba6359",
+    "type": "split",
+    "children": [
+      {
+        "id": "be175078ebeac8b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a470a320f93e0813",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Verktyg.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Verktyg"
+            }
+          },
+          {
+            "id": "ee7253b582cdbb29",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Verktyg.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Verktyg"
+            }
+          },
+          {
+            "id": "a6ecab4019e44807",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "41305666f3d427dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Verktyg.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Verktyg"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0552dccf34785d32",
+  "lastOpenFiles": [
+    "The Vulnerabilities and Risks of Implementing Internet of Things (IoT) in Cyber Security.md",
+    "HALE-IoT HArdening LEgacy Internet-of-Things devices by retrofitting defensive firmware modifications and.md",
+    "Articles.md",
+    "Verktyg.md",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
